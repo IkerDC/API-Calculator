@@ -1,4 +1,4 @@
-# API Simple-Calculator :heavy_plus_sign: :heavy_minus_sign: :heavy_division_sign: :heavy_multiplication_x:
+# API Simple-Calculator 
 API perform simple calculations.
 
 
